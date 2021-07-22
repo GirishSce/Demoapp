@@ -15,10 +15,4 @@ $ echo 'echo Hello World' >> my-script.sh
 $ chmod 755 my-script.sh
 $ ./my-script.sh
 Hello World
-
-
-
-ghjk0pcweriu uyiou9pi45 uyio;uyn490jm jhdf90845m,m,.590m ghrj899056hj,nh,nv uih jriu
-jhjhdfsuiuituysdf
-efwuiuiojio;opvb890 ioiouuiot uiouiojhgh
-
+:
