@@ -5,4 +5,4 @@ git branch -M main
 git remote add origin https://github.com/Pramod4050/Demoapp.git
 git push -u origin main
 You are reading Version 4.2, last updated 2nd March 2021.
-The most recent version of this tutorial is always available at: https://www.shellscript.sh. Always check there for the latest copy. (If you are reading this at some different address, it is probably a copy of the real site, and therefore may be out of date).
+
